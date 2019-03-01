@@ -1,0 +1,105 @@
+
+                         CodeAnalysis - Built in VS 2015 with C++   - Req #1
+    ==============================================================================================
+     Tue May  2 00:34:47 2017
+     Path: "C:\Users\Smj\Desktop\674\Assignment 2 MengjieShi\Assignment 2 MengjieShi\Sorting"
+     Args: *.h, *.cpp, Sorting.sln, /m, /r, /f                                                                               
+           Code Metrics - Start Line, Size (lines/code), and Complexity (number of scopes)
+    ==============================================================================================
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                             namespace                   Global Namespace       1       1      76
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Bubble.h       class                             Bubble      14      20       5
+                  Bubble.h    function                               sort      17      16       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                    Comb.h       class                               Comb      10      28       6
+                    Comb.h    function                               sort      13      24       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                Counting.h       class                           Counting      10      26       3
+                Counting.h    function                               sort      13      22       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                HeapSort.h       class                               Heap      10      30       6
+                HeapSort.h    function                               sort      12       9       2
+                HeapSort.h    function                           moveDown      23      16       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   ISort.h      struct                              ISort       9       5       3
+                   ISort.h    function                              ISort       9       2       1
+                   ISort.h    function                             ~ISort      10       2       1
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Insertion.h       class                          Insertion       9      11       3
+               Insertion.h    function                               sort      11       8       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Intro.h       class                              Intro      15      40       7
+                   Intro.h    function                               sort      18       4       1
+                   Intro.h    function                          introSort      23      28       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Main.cpp    function                       ConvertToInt      27       7       1
+                  Main.cpp    function                              split      35      17       4
+                  Main.cpp    function                         VectorGene      53      18       3
+                  Main.cpp    function                        PrintVector      74      15       3
+                  Main.cpp    function                       SortAnalysis      90      27       1
+                  Main.cpp    function                               main     119      92       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Merge.h       class                              Merge      12      40       6
+                   Merge.h    function                               sort      14       4       1
+                   Merge.h    function                          mergeSort      20       9       2
+                   Merge.h    function                              merge      31      20       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Quick.h       class                              Quick      10      37       4
+                   Quick.h    function                               sort      12      11       1
+                   Quick.h    function                               sort      25      21       2
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Radix.h       class                              Radix      12      21       4
+                   Radix.h    function                               sort      14      18       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+               Selection.h       class                          Selection      12      12       4
+               Selection.h    function                               sort      14       9       3
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                   Shell.h       class                              Shell      10      18       5
+                   Shell.h    function                               sort      11      16       4
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+        WindowsStopWatch.h       class                   WindowsStopwatch      22       9       5
+
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+      WindowsStopWatch.cpp    function                   WindowsStopwatch      22       6       1
+      WindowsStopWatch.cpp    function                              start      29       3       1
+      WindowsStopWatch.cpp    function                               stop      33       3       1
+      WindowsStopWatch.cpp    function                            getTime      37       6       1
+
+                          Functions Exceeding Metric Limits and Public Data
+    ==============================================================================================
+                 file name        type                               name    line    size    cplx
+    -----------------------  ----------  ---------------------------------  ------  ------  ------
+                  Main.cpp    function                               main     119      92       2
+

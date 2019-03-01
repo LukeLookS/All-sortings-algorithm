@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\smj\desktop\graduation\spring 2017\674\assignment 2 mengjieshi\assignment 2 mengjieshi\sorting\sorting\intro.h(20): warning C4244: “参数”: 从“float”转换到“int”，可能丢失数据
+c:\users\smj\desktop\graduation\spring 2017\674\assignment 2 mengjieshi\assignment 2 mengjieshi\sorting\sorting\main.cpp(61): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\smj\desktop\graduation\spring 2017\674\assignment 2 mengjieshi\assignment 2 mengjieshi\sorting\sorting\main.cpp(66): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\smj\desktop\graduation\spring 2017\674\assignment 2 mengjieshi\assignment 2 mengjieshi\sorting\sorting\main.cpp(58): warning C4101: “num”: 未引用的局部变量
+  Sorting.vcxproj -> C:\Users\Smj\Desktop\graduation\Spring 2017\674\Assignment 2 MengjieShi\Assignment 2 MengjieShi\Sorting\Debug\Sorting.exe
